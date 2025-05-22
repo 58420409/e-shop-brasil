@@ -1,0 +1,5 @@
+[
+  {"nome": "João Silva", "email": "joao@email.com", "cidade": "São Paulo"},
+  {"nome": "Maria Souza", "email": "maria@email.com", "cidade": "Belo Horizonte"},
+  {"nome": "Carlos Pereira", "email": "carlos@email.com", "cidade": "Porto Alegre"}
+]
