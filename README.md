@@ -32,7 +32,7 @@ Implementar um sistema que usa **MongoDB** e **Streamlit** dentro de um ambiente
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/SEU_USUARIO/e-shop-brasil.git
+git clone https://github.com/58420409/e-shop-brasil.git
 cd e-shop-brasil
 ```
 
